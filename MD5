@@ -1,0 +1,12 @@
+5c0bc2e4723c0617fb182a812472fecc *DESCRIPTION
+fb26501b1fc9471e7d29bc4dab6d0c13 *NAMESPACE
+c08f0d6ad2da8629b8438bbde13e127e *R/cvr.glmnet.R
+9ae9ddd4e86591caf09a5778395b98a9 *R/cvr.ipflasso.r
+772ea8abcfaf2dec5d9903c632d03847 *R/cvr2.ipflasso.r
+ced4f6bba5d63e5ba8da47427842c3b6 *R/ipflasso.predict.r
+dc18d98bc574dd83899b8a387a86f9db *R/my.auc.R
+95426cdc62320c93cf51fa8d015ba1b2 *man/cvr.glmnet.Rd
+2fb390c4fc99ffb6c5e4400c359162a1 *man/cvr.ipflasso.Rd
+8b6545361f3ba50cb10962e14c3ef066 *man/cvr2.ipflasso.Rd
+857c9c4510deb04d1e77540ab6d10cc9 *man/ipflasso.predict.Rd
+6a0e98c75344372f07a1bfed9a8dd424 *man/my.auc.Rd
