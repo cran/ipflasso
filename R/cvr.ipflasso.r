@@ -59,7 +59,7 @@ if (family=="binomial"&!is.element(type.measure,c("auc","class")))
 
 
 
-if (any(pf<=0))
+if (any(pf<0))
  {
  stop("pf should have positive entries.")
  }

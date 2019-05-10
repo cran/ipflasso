@@ -39,12 +39,11 @@ the same as cv.glmnet but with several ncv repetitions of CV: cross-validation r
 
 
 \references{
- Boulesteix AL, De Bin R, Jiang X, Fuchs M, 2015. IPF-lasso: integrative L1-penalized regression with penalty factors for prediction based on multi-omics data. Technical Report 187, Department of Statistics, University of Munich.
+ Boulesteix AL, De Bin R, Jiang X, Fuchs M, 2017. IPF-lasso: integrative L1-penalized regression with penalty factors for prediction based on multi-omics data. Comput Math Methods Med 2017:7691937.
 }
 
 \author{
-  Anne-Laure Boulesteix (\url{http://www.ibe.med.uni-muenchen.de/organisation/mitarbeiter/020_professuren/boulesteix/eng.html}),   
-
+  Anne-Laure Boulesteix (\url{https://www.en.ibe.med.uni-muenchen.de/mitarbeiter/professoren/boulesteix/index.html})   
 }
 
 

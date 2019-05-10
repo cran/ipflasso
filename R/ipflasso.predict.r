@@ -1,6 +1,6 @@
 ### Using an IPF-lasso model for prediction of new observations
 ###
-### Copyright 2015-07 Anne-Laure Boulesteix 
+### Copyright 2019-05 Anne-Laure Boulesteix 
 ###
 ### Using an IPF-lasso model for prediction of new observations
 ###
@@ -34,7 +34,7 @@ if (object$family=="gaussian"|object$family=="binomial")
 
 if (object$family=="cox")
  {
- linpredtest<-Xtest%*%coeff[-1]
+ linpredtest<-Xtest%*%coeff
  }
 
 
