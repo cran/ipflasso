@@ -32,8 +32,8 @@ cvm<-a1$cvm
 
 if (ncv==1)
 {
-return(list(coeff=rbind(as.numeric(a1$glmnet.fit$a0),
-                        as.matrix(a1$glmnet.fit$beta)),lambda=lambda1,cvm=cvm))
+return(list(coeff=rbind(as.numeric(a1$glmnet.fit$a0)[1:length(lambda1)],
+                        as.matrix(a1$glmnet.fit$beta)[,1:length(lambda1)]),lambda=lambda1,cvm=cvm))
 }
 
 else

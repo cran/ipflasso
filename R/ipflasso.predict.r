@@ -34,7 +34,7 @@ if (object$family=="gaussian"|object$family=="binomial")
 
 if (object$family=="cox")
  {
- linpredtest<-Xtest%*%coeff
+ linpredtest<-Xtest%*%coeff[-1]
  }
 
 

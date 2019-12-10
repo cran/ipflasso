@@ -50,6 +50,7 @@ if (family=="cox")
  {
  if (type.measure!="deviance")
   warning("type.measure is set to partial likelihood.")
+  type.measure <- "deviance"
  }
 
 if (family=="binomial"&!is.element(type.measure,c("auc","class")))
